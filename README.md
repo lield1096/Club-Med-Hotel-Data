@@ -1,5 +1,4 @@
-# Club-Med-Hotel-Data
-
+# **Data Analysis Project: Uncovering Insights and Correlations in Club Med Hotel Data**
 **Author:** Liel Dadush  
 **Project Type:** Data Analysis and Visualization  
 **Tools Used:** Python, Pandas, Matplotlib, Seaborn
