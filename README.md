@@ -14,6 +14,3 @@ This project analyzes a dataset from Club Med Hotel (2016-2023) to uncover insig
 **5. Ranking vs Expenditure:** Scatter plot to examine guest satisfaction and spending.  
 ## Visualizations
 Key visualizations include histograms, stacked bar charts, scatter plots, and boxplots, created using Matplotlib and Seaborn to interpret the data.
-
-## Conclusion
-This project provides insights into guest behavior, membership trends, and room pricing at Club Med Hotel through detailed data analysis and visualizations.
